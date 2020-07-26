@@ -1,0 +1,60 @@
+
+body{
+    text-align: center! important;
+    
+}
+h1{
+    text-align: center;
+    color:#00ff00;
+    background-color:transparent;
+    padding:2px;
+    margin-bottom: 20px;
+    margin-left:0;
+    margin-right: 0
+}
+.input_div{
+    text-align: center;
+  
+}
+.input{
+    text-align: center;
+    width: 220px;
+    padding:2px;
+    height:30px;
+    outline: none;
+    margin-right: 20px;
+    margin-left: 10px;
+    border: none;
+    border-bottom:2px solid lime;
+    background-color: transparent;
+    color:grey;
+    font-size: 18px;
+}
+.addbtn{
+    padding: 5px;
+    margin: 5px;
+    font-weight: bold! important;
+    border: none;
+    border-radius: 5px;
+    background-color: #00ff00;
+    color: #fff;
+    cursor: pointer;
+}
+.delallbtn{
+    padding: 5px;
+    margin: 5px;
+    font-weight: 600! important;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff0000;
+    color: #fff;
+    cursor: pointer;
+}
+.btn{
+    padding: 2px;
+    margin: 5px;
+    background-color: mediumspringgreen! important;
+    font-weight: 500! important;
+    color: #fff! important;        
+
+}
